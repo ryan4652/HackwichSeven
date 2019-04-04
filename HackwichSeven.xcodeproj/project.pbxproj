@@ -12,6 +12,7 @@
 		94DBC7AD2256961F006D2847 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 94DBC7AB2256961F006D2847 /* Main.storyboard */; };
 		94DBC7AF22569620006D2847 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 94DBC7AE22569620006D2847 /* Assets.xcassets */; };
 		94DBC7B222569620006D2847 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 94DBC7B022569620006D2847 /* LaunchScreen.storyboard */; };
+		94DBC7BA22569854006D2847 /* Restaurant.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94DBC7B922569854006D2847 /* Restaurant.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		94DBC7AE22569620006D2847 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		94DBC7B122569620006D2847 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		94DBC7B322569620006D2847 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		94DBC7B922569854006D2847 /* Restaurant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Restaurant.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				94DBC7A72256961F006D2847 /* AppDelegate.swift */,
 				94DBC7A92256961F006D2847 /* ViewController.swift */,
 				94DBC7AB2256961F006D2847 /* Main.storyboard */,
+				94DBC7B922569854006D2847 /* Restaurant.swift */,
 				94DBC7AE22569620006D2847 /* Assets.xcassets */,
 				94DBC7B022569620006D2847 /* LaunchScreen.storyboard */,
 				94DBC7B322569620006D2847 /* Info.plist */,
@@ -137,6 +140,7 @@
 			files = (
 				94DBC7AA2256961F006D2847 /* ViewController.swift in Sources */,
 				94DBC7A82256961F006D2847 /* AppDelegate.swift in Sources */,
+				94DBC7BA22569854006D2847 /* Restaurant.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
